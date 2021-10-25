@@ -1,4 +1,4 @@
-# Least Square Calibration for Peer Review
+# Least Square Calibration for Peer Reviews
 
 Requirements
 - gurobipy       -> for solving convex programs
